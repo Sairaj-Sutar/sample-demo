@@ -1,4 +1,5 @@
 # sample-demo
 This is sample repository.
 <br>
-Author : Sairaj Sutar
+Author : Sairaj Sutar(student)
+
